@@ -1,0 +1,429 @@
+{
+  "subject": "DBMS",
+  "weeks": {
+    "Week 1": [
+      {
+        "id": "L1.1",
+        "title": "L1.1: Course Overview",
+        "link": "https://www.youtube.com/embed/OMHbGm9SQuE?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=3&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L1.2",
+        "title": "L1.2: Why DBMS?/1",
+        "link": "https://www.youtube.com/embed/BS0-7KJdopY?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=4&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L1.3",
+        "title": "L1.3: Why DBMS?/2",
+        "link": "https://www.youtube.com/embed/9SrBrnIoCjc?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=5&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L1.4",
+        "title": "L1.4: Introduction to DBMS/1",
+        "link": "https://www.youtube.com/embed/s1Jb-NJNpT4?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=6&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L1.5",
+        "title": "L1.5: Introduction to DBMS/2",
+        "link": "https://www.youtube.com/embed/MDQxqYVXiVU?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=7&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      }
+    ],
+    "Week 2": [
+      {
+        "id": "L2.1",
+        "title": "L2.1: Introduction to Relational Model/1",
+        "link": "https://www.youtube.com/embed/B3cCQagcoao?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=8&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L2.2",
+        "title": "L2.2: Introduction to Relational Model/2",
+        "link": "https://www.youtube.com/embed/D8e1-apWxo8?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=9&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L2.3",
+        "title": "L2.3: Introduction to SQL/1",
+        "link": "https://www.youtube.com/embed/Wv6vM5rGCw0?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=10&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L2.4",
+        "title": "L2.4: Introduction to SQL/2",
+        "link": "https://www.youtube.com/embed/hEgb_76wz1s?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=11&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L2.5",
+        "title": "L2.5: Introduction to SQL/3",
+        "link": "https://www.youtube.com/embed/AaKMO4-g_zw?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=12&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 2.1 - Binary Numbers & Character Encoding Part 1",
+        "title": "Tutorial 2.1 - Binary Numbers & Character Encoding Part 1",
+        "link": "https://www.youtube.com/embed/7yzUtikAvsk?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=13&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 2.2 - Binary Numbers & Character Encoding Part 2",
+        "title": "Tutorial 2.2 - Binary Numbers & Character Encoding Part 2",
+        "link": "https://www.youtube.com/embed/9vD-GAyfmv8?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=14&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 2.3 - Running SQL Commands in PostgreSQL",
+        "title": "Tutorial 2.3 - Running SQL Commands in PostgreSQL",
+        "link": "https://www.youtube.com/embed/UTvCO2YaPxA?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=15&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 2.4 ",
+        "title": "Tutorial 2.4 : Datatypes and Constraints in SQL",
+        "link": "https://www.youtube.com/embed/bqxuZC_X1Cc?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=16&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 2.5",
+        "title": "Tutorial 2.5: DDL Commands",
+        "link": "https://www.youtube.com/embed/jWPmUIkiVMY?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=17&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      }
+    ],
+    "Week 3": [
+      {
+        "id": "L3.1",
+        "title": "L3.1: SQL Examples",
+        "link": "https://www.youtube.com/embed/j6v3lL5xbao?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=18&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L3.2",
+        "title": "L3.2: Intermediate SQL/1",
+        "link": "https://www.youtube.com/embed/Pk1j1UE3JLI?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=19&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L3.3",
+        "title": "L3.3: Intermediate SQL/2",
+        "link": "https://www.youtube.com/embed/_-JZS7mqo6k?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=20&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L3.4",
+        "title": "L3.4: Intermediate SQL/3",
+        "link": "https://www.youtube.com/embed/JtCk6DurR8k?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=21&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L3.5",
+        "title": "L3.5: Advanced SQL",
+        "link": "https://www.youtube.com/embed/f0hK7aMloI0?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=22&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 3.1 - Triggers(case sudies)",
+        "title": "Tutorial 3.1 - Triggers(case sudies)",
+        "link": "https://www.youtube.com/embed/Y4iDP3E7JxI?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=23&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      }
+    ],
+    "Week 4": [
+      {
+        "id": "L4.1",
+        "title": "L4.1: Formal Relational Query Languages/1",
+        "link": "https://www.youtube.com/embed/VfQcP-2VdLc?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=24&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L4.2",
+        "title": "L4.2: Formal Relational Query Languages/2",
+        "link": "https://www.youtube.com/embed/WjlbMfEqom8?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=25&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L4.3",
+        "title": "L4.3: Entity-Relationship Model/1",
+        "link": "https://www.youtube.com/embed/EGAQdgim3IA?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=26&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L4.4",
+        "title": "L4.4: Entity-Relationship Model/2",
+        "link": "https://www.youtube.com/embed/In_PYLgZvKo?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=27&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L4.5",
+        "title": "L4.5: Entity-Relationship Model/3",
+        "link": "https://www.youtube.com/embed/WOWKszMjmgE?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=28&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 4.1- Division Operation",
+        "title": "Tutorial 4.1- Division Operation",
+        "link": "https://www.youtube.com/embed/DMiZPUjRls0?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=29&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 4.2 -Tuple Relational Calculus",
+        "title": "Tutorial 4.2 -Tuple Relational Calculus",
+        "link": "https://www.youtube.com/embed/CkL5StNIla8?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=30&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 4.3 - Translation of E-R Diagram into Relational Schema",
+        "title": "Tutorial 4.3 - Translation of E-R Diagram into Relational Schema",
+        "link": "https://www.youtube.com/embed/w_7Q_P8ODNk?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=31&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 4.4 - Case Study on ER Diagram",
+        "title": "Tutorial 4.4 - Case Study on ER Diagram",
+        "link": "https://www.youtube.com/embed/cS1hL-TjyA0?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=32&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      }
+    ],
+    "Week 5": [
+      {
+        "id": "L5.1",
+        "title": "L5.1: Relational Database Design/1",
+        "link": "https://www.youtube.com/embed/Am4ZVa1Filk?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=33&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L5.2",
+        "title": "L5.2: Relational Database Design/2",
+        "link": "https://www.youtube.com/embed/iW5C0g8fhx4?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=34&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L5.3",
+        "title": "L5.3: Relational Database Design/3",
+        "link": "https://www.youtube.com/embed/gFJuNh63MGw?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=35&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 5.3 Closure of Attributes",
+        "title": "Tutorial 5.3 Closure of Attributes",
+        "link": "https://www.youtube.com/embed/VC9WPXylUq4?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=36&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L5.4",
+        "title": "L5.4: Relational Database Design/4",
+        "link": "https://www.youtube.com/embed/6AZlp7EcmiQ?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=37&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 5.4 Super Keys and Candidate Keys",
+        "title": "Tutorial 5.4 Super Keys and Candidate Keys",
+        "link": "https://www.youtube.com/embed/3hCfuG-E0jk?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=38&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L5.5",
+        "title": "L5.5: Relational Database Design/5",
+        "link": "https://www.youtube.com/embed/WWI4ACyTneI?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=39&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 5.1 Lossless Join Decomposition",
+        "title": "Tutorial 5.1 Lossless Join Decomposition",
+        "link": "https://www.youtube.com/embed/0B6Yd7RhBX4?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=40&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 5.2 Canonical Cover",
+        "title": "Tutorial 5.2 Canonical Cover",
+        "link": "https://www.youtube.com/embed/hEsWAya9PHM?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=41&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 5.5 Dependency Preservation",
+        "title": "Tutorial 5.5 Dependency Preservation",
+        "link": "https://www.youtube.com/embed/h-SO2pc9_0k?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=42&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      }
+    ],
+    "Week 6": [
+      {
+        "id": "L6.1",
+        "title": "L6.1: Relational Database Design/6: Normal Forms",
+        "link": "https://www.youtube.com/embed/BQex0zbsMwg?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=43&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L6.2",
+        "title": "L6.2: Relational Database Design/7: Normal Forms",
+        "link": "https://www.youtube.com/embed/4Vn2-tcg21c?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=44&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L6.3",
+        "title": "L6.3: Relational Database Design/8: Case Study",
+        "link": "https://www.youtube.com/embed/uOxY9Hn8yz4?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=45&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L6.4",
+        "title": "L6.4: Relational Database Design/9: MVD & 4NF",
+        "link": "https://www.youtube.com/embed/pf7ws6WgklU?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=46&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L6.5",
+        "title": "L6.5: Relational Database Design/10: Design Summary & Temporal Data",
+        "link": "https://www.youtube.com/embed/4iOin7ls0Uk?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=47&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 6.1",
+        "title": "Tutorial 6.1: Problem solving on normalization",
+        "link": "https://www.youtube.com/embed/ODqghQdR4KY?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=48&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 6.2 Multivalued Dependency",
+        "title": "Tutorial 6.2 Multivalued Dependency",
+        "link": "https://www.youtube.com/embed/2RyQBcD6kIs?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=49&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      }
+    ],
+    "Week 7": [
+      {
+        "id": "L7.1",
+        "title": "L7.1: Application Design and Development/1: Architecture",
+        "link": "https://www.youtube.com/embed/yh6yhQj4Ncg?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=50&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L7.2",
+        "title": "L7.2: Application Design and Development/2: Web Applications",
+        "link": "https://www.youtube.com/embed/Uk8x3XvG3dA?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=51&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L7.3",
+        "title": "L7.3: Application Design and Development/3: SQL and Native Language",
+        "link": "https://www.youtube.com/embed/ElkvZWTN9J8?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=52&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L7.4",
+        "title": "L7.4: Application Design and Development/4: Python and PostgreSQL",
+        "link": "https://www.youtube.com/embed/ZiO7YhTHuyQ?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=53&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L7.5",
+        "title": "L7.5: Application Design and Development/5: Application Development and Mobile",
+        "link": "https://www.youtube.com/embed/KgK3Kz8BlmA?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=54&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      }
+    ],
+    "Week 8": [
+      {
+        "id": "L8.1",
+        "title": "L8.1: Algorithms and Data Structures/1: Algorithms & Complexity Analysis",
+        "link": "https://www.youtube.com/embed/uqpA6wySe8o?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=55&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L8.2",
+        "title": "L8.2: Algorithms and Data Structures/2: Data Structures",
+        "link": "https://www.youtube.com/embed/P0SxHRCjlV8?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=56&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L8.3",
+        "title": "L8.3: Algorithms and Data Structures/3: Data Structures",
+        "link": "https://www.youtube.com/embed/OgXyMwjD6Nk?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=57&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L8.4",
+        "title": "L8.4: Storage and File Structure/1: Physical Storage",
+        "link": "https://www.youtube.com/embed/tbCDTfpOC6Q?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=58&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L8.5",
+        "title": "L8.5: Storage and File Structure/2: File Structure",
+        "link": "https://www.youtube.com/embed/7Y3z_iqTYbg?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=59&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 8.1",
+        "title": "Tutorial 8.1",
+        "link": "https://www.youtube.com/embed/uLxLfqDdo04?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=60&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      }
+    ],
+    "Week 9": [
+      {
+        "id": "L9.1",
+        "title": "L9.1: Indexing and Hashing/1: Indexing/1",
+        "link": "https://www.youtube.com/embed/fY-EC1dknnQ?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=61&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L9.2",
+        "title": "L9.2: Indexing and Hashing/2: Indexing/2",
+        "link": "https://www.youtube.com/embed/pZ9aUJUzFhg?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=62&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L9.3",
+        "title": "L9.3: Indexing and Hashing/3: Indexing/3",
+        "link": "https://www.youtube.com/embed/bIUCShynysk?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=63&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L9.4",
+        "title": "L9.4: Indexing and Hashing/4: Hashing",
+        "link": "https://www.youtube.com/embed/yXK6yYwNJFw?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=64&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L9.5",
+        "title": "L9.5: Indexing and Hashing/5: Index Design",
+        "link": "https://www.youtube.com/embed/oZetRAwYmrw?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=65&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 9.1 - B Trees",
+        "title": "Tutorial 9.1 - B Trees",
+        "link": "https://www.youtube.com/embed/sNjeVWiAaZ8?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=66&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "Tutorial 9.2 - B+ Trees",
+        "title": "Tutorial 9.2 - B+ Trees",
+        "link": "https://www.youtube.com/embed/IbXHaBr9mNg?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=67&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      }
+    ],
+    "Week 10": [
+      {
+        "id": "L10.1",
+        "title": "L10.1: Transactions/1",
+        "link": "https://www.youtube.com/embed/MwdAkFhR_I8?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=68&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L10.2",
+        "title": "L10.2: Transactions/2: Serializability",
+        "link": "https://www.youtube.com/embed/MNXTL69Ud9A?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=69&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L10.3",
+        "title": "L10.3: Transactions/3: Recoverability",
+        "link": "https://www.youtube.com/embed/tlnEqRcVB5s?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=70&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L10.4",
+        "title": "L10.4: Concurrency Control/1",
+        "link": "https://www.youtube.com/embed/VcYdCPbyWX0?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=71&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L10.5",
+        "title": "L10.5: Concurrency Control/2",
+        "link": "https://www.youtube.com/embed/OYbfDSxrEKI?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=72&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      }
+    ],
+    "Week 11": [
+      {
+        "id": "L11.1",
+        "title": "L11.1: Backup & Recovery/1: Backup/1",
+        "link": "https://www.youtube.com/embed/7oNFney4vhc?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=73&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L11.2",
+        "title": "L11.2: Backup & Recovery/2: Recovery/1",
+        "link": "https://www.youtube.com/embed/2BkGxLntkBc?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=74&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L11.3",
+        "title": "L11.3: Backup & Recovery/3: Recovery/2",
+        "link": "https://www.youtube.com/embed/41cWyckqqRc?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=75&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L11.4",
+        "title": "L11.4: Backup & Recovery/4: Recovery/3",
+        "link": "https://www.youtube.com/embed/zliL6LlKiNs?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=76&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L11.5",
+        "title": "L11.5: Backup & Recovery/5: Backup/2: RAID",
+        "link": "https://www.youtube.com/embed/YYl4onLINRY?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=77&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      }
+    ],
+    "Week 12": [
+      {
+        "id": "L12.1",
+        "title": "L12.1: Query Processing and Optimization/1: Processing",
+        "link": "https://www.youtube.com/embed/VQrqJafvnzY?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=78&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L12.2",
+        "title": "L12.2: Query Processing and Optimization/2: Optimization",
+        "link": "https://www.youtube.com/embed/pAonkbv10ak?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=79&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L12.3",
+        "title": "L12.3: RDBMS Performance & Architecture",
+        "link": "https://www.youtube.com/embed/MGJaOVjdHvs?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=80&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L12.4",
+        "title": "L12.4: Non-Relational DBMS: NOSQL",
+        "link": "https://www.youtube.com/embed/sLapLg_dZ9c?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=81&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      },
+      {
+        "id": "L12.5",
+        "title": "L12.5: Widely Used DBMSs and Course Summarization",
+        "link": "https://www.youtube.com/embed/lgiN8paqhjw?enablejsapi=1&origin=https%3A%2F%2Facegrade.in&widgetid=82&forigin=https%3A%2F%2Facegrade.in%2Flectures&aoriginsup=1&vf=6"
+      }
+    ]
+  }
+}
