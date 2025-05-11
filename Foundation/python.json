@@ -265,36 +265,188 @@
         "id": "",
         "title": "L5.1: L5.1: Dictionaries",
         "link": "https://www.youtube.com/watch?v=X8Nj5cxaP9E"
-      }
+       } ,
+       {
+        "id": "",
+        "title": "L5.2: More on Dictionaries",
+        "link": "https://www.youtube.com/watch?v=gTpPI3SMnAA"
+        },
+        {
+        "id": "",           
+        "title": "L5.3:  Sorting using Functions",
+        "link": "https://www.youtube.com/watch?v=8MQBieBCRFA"
+        },
+        {       
+        "id": "",
+        "title": "L5.4: Matrix Multiplication - 1",
+        "link": "https://www.youtube.com/watch?v=seYP1F6Ct2g"
+        },
+        {
+        "id": "",
+        "title": "L5.5: Matrix Multiplication - 2",
+        "link": "https://www.youtube.com/watch?v=mtRRS_ssl3s"
+        },
+        {
+        "id": "",
+        "title": "L5.6: Matrix Multiplication using Functions",
+        "link": "https://www.youtube.com/watch?v=HJetH-CCOGY"
+        },
+        {
+        "id": "",
+        "title": "L5.7: Scope of Variables",
+        "link": "https://www.youtube.com/watch?v=4q5rGHfR-ic"
+        },
+        {  
+        "id": "",
+        "title": "L5.8:  Tutorial on functions",
+        "link": "https://www.youtube.com/watch?v=mkAbfQM2OJY"
+        },
+        {
+        "id": "",
+        "title": "L5.9: Iterators and genrator",
+        "link": "https://www.youtube.com/watch?v=29A7HhnzxPU"
+        },
+        {
+        "id": "",
+        "title": "L5.10: lambda functions, enumerate, zip, map filter",
+        "link": "https://www.youtube.com/watch?v=ueIignqReDY"
+        }
+    ],
+
+    "Week 8": [
         {
             "id": "",
-            "title": "L5.2: More on Dictionaries",
-            "link": "https://www.youtube.com/watch?v=0g1a7qk4X6E"
+            "title": "L8.1: Introduction to File Handling",
+            "link": "https://www.youtube.com/watch?v=rYLJaAdgLhI"
         },
         {
             "id": "",
-            "title": "L5.3: Introduction to Classes",
-            "link": "https://www.youtube.com/watch?v=8v9bYj0r8xA"
+            "title": "L8.2: Reading and Writing to a Files",
+            "link": "https://www.youtube.com/watch?v=rYLJaAdgLhI"
         },
         {
             "id": "",
-            "title": "L5.4: More on Classes",
-            "link": "https://www.youtube.com/watch?v=Gz1cJm2wW4I"
+            "title": "L8.3: Big text file handling",
+            "link": "https://www.youtube.com/watch?v=9eOxi7smTKg"
         },
         {
             "id": "",
-            "title": "L5.5: More on Classes and Objects",
-            "link": "https://www.youtube.com/watch?v=Qe7lqZ3dK0M"
+            "title": "L8.4: Very big files - a tip",
+            "link": "https://www.youtube.com/watch?v=NwFpo_KGvOA"
+        },
+        {
+            "id": "",
+            "title": "L8.5: Caesar Cipher",
+            "link": "https://www.youtube.com/watch?v=MkqFvnC2naE"
+        },
+        {
+            "id": "",
+            "title": "L8.6: File handling, Genetic Sequences",
+            "link": "https://www.youtube.com/watch?v=df8FxNd27Dg"
+        }
+    ],
+    "Week 9": [
+        {
+            "id": "",
+            "title": "L9.1:  Introduction to the week and introduction to recursion",
+            "link": "https://www.youtube.com/watch?v=SGCy1yBLbsg"
+        },
+        {
+            "id": "",
+            "title": "L9.2: Theoretical Introduction to Recursion",
+            "link": "https://www.youtube.com/watch?v=htu4ZCW7hzA"
+        },
+        {
+            "id": "",
+            "title": "L9.3: Recursion - An Illustration",
+            "link": "https://www.youtube.com/watch?v=PAUlGa9wAxA"
+        },
+        {
+            "id": "",
+            "title": "L9.4: Recursion: a simple question",
+            "link": "https://www.youtube.com/watch?v=wkglgM6uUmI"
+        },
+        {
+            "id": "",
+            "title": "L9.5:  Recursion: find 0 in a list",
+            "link": "https://www.youtube.com/watch?v=eNARY_uyLqo"
+        },
+        {
+            "id": "",
+            "title": "L9.6: Sorting Recursively",
+            "link": "https://www.youtube.com/watch?v=vRajQuHdlBE"
+        },
+        {
+            "id": "",
+            "title": "L9.7: Introduction to Binary Search",
+            "link": "https://www.youtube.com/watch?v=WEJt1L7YTpM"
+        },
+        {
+            "id": "",
+            "title": "L9.8: Warm up for Binary Search",
+            "link": "https://www.youtube.com/watch?v=Bb7oymEgX_I"
+        },
+        {
+            "id": "",
+            "title": "L9.9: Binary Search Implementation",
+            "link": "https://www.youtube.com/watch?v=1l83L1ZKF5k"
+        },
+        {
+            "id": "",
+            "title": "L9.10:  Binary Search Recursion Way",
+            "link": "https://www.youtube.com/watch?v=v_WYTBhHONo"
         }
 
-
     ],
-    "Week 6": [],
-    "Week 7": [],
-    "Week 8": [],
-    "Week 9": [],
-    "Week 10": [],
-    "Week 11": [],
-    "Week 12": []
+    "Week 10": [
+        {
+            "id": "",
+            "title": "L10.1: Exception handling",
+            "link": "https://www.youtube.com/watch?v=me3_XR7Iz60"
+        },
+        {
+            "id": "",
+            "title": "L10.2: Introduction to Object Oriented Programming",
+            "link": "https://www.youtube.com/watch?v=X1mOrCwZUgQ"
+        },
+        {
+            "id": "",
+            "title": "L10.3: Classes and Objects",
+            "link": "https://www.youtube.com/watch?v=ZPtRsQrZLcE"
+        },
+        {
+            "id": "",
+            "title": "L10.4: Attributes and Methods",
+            "link": "https://www.youtube.com/watch?v=n_jPQlWhGhM&t=2s"
+        },
+        {
+            "id": "",
+            "title": "L10.5: ConstructorsInheritance and Method Overriding",
+            "link": "https://www.youtube.com/watch?v=RrFvcDjJptY"
+        }
+    ],
+
+    "Week 11": [
+        {
+        "id": "",
+        "title": "L11.1: Introduction to Numpy Library",
+        "link": "https://www.youtube.com/watch?v=O0IrNk1qoUE"
+        },
+        {
+        "id": "",
+        "title": "L11.2:Why Pandas",
+        "link": "https://www.youtube.com/watch?v=HCxhHo8tV4U"
+        },
+        {
+        "id": "",
+        "title": "L11.3: Pandas Series, DataFrame and more",
+        "link": "https://www.youtube.com/watch?v=aPjiMs7CR7s"
+        },
+        {
+        "id": "",
+        "title": "L11.4.: Introduction to Matplotlib library",
+        "link": "https://www.youtube.com/watch?v=hk6NsCfvftY"
+        }
+    ]
   }
 }
